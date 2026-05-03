@@ -1,0 +1,1 @@
+<h2>Vui lòng bấm vào đây để xác nhận tài khoản. Click <a href="{{$route}}">vào đây</a> để lấy lại mật khẩu</h2>
